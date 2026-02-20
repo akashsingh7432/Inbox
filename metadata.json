@@ -1,0 +1,5 @@
+{
+  "name": "Personal Mail",
+  "description": "A clean, minimal email client for personal use with inbox, search, and categorization.",
+  "requestFramePermissions": []
+}
